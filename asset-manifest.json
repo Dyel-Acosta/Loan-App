@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/loan-app/static/css/main.6fa2bb1b.css",
-    "main.js": "/loan-app/static/js/main.1ecb91c4.js",
-    "static/media/Quickstop.png": "/loan-app/static/media/Quickstop.d1a3967b1e50a261776d.png",
-    "index.html": "/loan-app/index.html",
-    "main.6fa2bb1b.css.map": "/loan-app/static/css/main.6fa2bb1b.css.map",
-    "main.1ecb91c4.js.map": "/loan-app/static/js/main.1ecb91c4.js.map"
+    "main.css": "/Loan-App/static/css/main.6fa2bb1b.css",
+    "main.js": "/Loan-App/static/js/main.7d54ff11.js",
+    "static/media/Quickstop.png": "/Loan-App/static/media/Quickstop.d1a3967b1e50a261776d.png",
+    "index.html": "/Loan-App/index.html",
+    "main.6fa2bb1b.css.map": "/Loan-App/static/css/main.6fa2bb1b.css.map",
+    "main.7d54ff11.js.map": "/Loan-App/static/js/main.7d54ff11.js.map"
   },
   "entrypoints": [
     "static/css/main.6fa2bb1b.css",
-    "static/js/main.1ecb91c4.js"
+    "static/js/main.7d54ff11.js"
   ]
 }
