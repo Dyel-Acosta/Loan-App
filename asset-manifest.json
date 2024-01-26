@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Loan-App/static/css/main.c222fc91.css",
+    "main.css": "/Loan-App/static/css/main.2f027b3c.css",
     "main.js": "/Loan-App/static/js/main.23ec37b5.js",
     "index.html": "/Loan-App/index.html",
-    "main.c222fc91.css.map": "/Loan-App/static/css/main.c222fc91.css.map",
+    "main.2f027b3c.css.map": "/Loan-App/static/css/main.2f027b3c.css.map",
     "main.23ec37b5.js.map": "/Loan-App/static/js/main.23ec37b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.c222fc91.css",
+    "static/css/main.2f027b3c.css",
     "static/js/main.23ec37b5.js"
   ]
 }
